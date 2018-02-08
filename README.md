@@ -1,5 +1,7 @@
 # web-dev-bookmarks
 
+[Javascript Modern Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+
 
 ## Email
 
