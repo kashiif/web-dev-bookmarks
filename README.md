@@ -5,6 +5,10 @@
 
 - [HEML](https://heml.io/): Open source markup language for building responsive email [Github](https://github.com/SparkPost/heml)
 
+## SVG
+
+- [Let’s make multi-colored icons with SVG symbols and CSS variables](https://medium.freecodecamp.org/lets-make-your-svg-symbol-icons-multi-colored-with-css-variables-cddd1769fca4)
+
 ## Screenshot
 
 - [DeviceFrame](https://github.com/c0bra/deviceframe): Add device frames around your mobile/web/progressive app screenshots.
